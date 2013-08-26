@@ -31,7 +31,7 @@ try {
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="author" content="Welsiton Ferreira (WFCreations)">
-        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/codemirror.css">
         <link rel="stylesheet" href="css/style.css">
         <title>Artificial Neural Network Client</title>
@@ -76,7 +76,7 @@ try {
                 </div>
             </div>
         </div>
-        <script src="js/jquery.js"></script>
+        <script src="js/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/application.js"></script>
         <script src="js/codemirror.js"></script>
